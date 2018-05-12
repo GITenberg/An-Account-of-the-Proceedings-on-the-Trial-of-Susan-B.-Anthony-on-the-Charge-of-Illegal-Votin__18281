@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18281#An-Account-of-the-Proceedings-on-the-Trial-of-Susan-B.-Anthony-on-the-Charge-of-Illegal-Votin_
 gutenberg_bookshelf: Noteworthy Trials(Bookshelf)
 gutenberg_issued: '2006-04-28'
 gutenberg_type: Text
